@@ -1,3 +1,4 @@
-# Project-C--CN  
-一些C++实现的小项目  
-Some small projects realized by C++
+# Readme-CN
+《程序设计项目》项目库
+项目名:通讯录管理系统(Windows版)
+数据库:Mysql

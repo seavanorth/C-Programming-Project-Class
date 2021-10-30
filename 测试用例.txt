@@ -1,0 +1,9 @@
+//数据类型:string 
+//姓名 年龄 性别 电话号码 电子邮箱 备注
+
+张三 18 男 1145148910 zhangsan@qq.com "有点骚"
+李四 20 男 1233423423 lisi@qq.com "幻想乡”
+王五 15 女 2332434543 wangwu@163.com "aswecan"
+王六 30 男 0925897324 wangliu@163.com "boor♂nextdooooor"
+勾三股四 5 未知  12345678910  gougudingli@bidagelas.com  "thankq♂sir"
+Michael_Jack 25  男  34234523490  zhangquandan@aaasss.fk.can  "that'sgood!!!"
